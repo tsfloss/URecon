@@ -1,6 +1,6 @@
 # URecon
 
-URecon is a simple UNET architecture implemented in TensorFlow that can be used to reconstruct the initial conditions of N-body simulations from late time (e.g. z=0).
+URecon is a simple UNET architecture implemented in TensorFlow that can be used to reconstruct the initial conditions of N-body simulations from late time (e.g. z=0) density fields.
 The weights trained on Quijote fiducial cosmology simulations, used for the results presented in 2305.xxxx, are provided.
 
 Requirements:
