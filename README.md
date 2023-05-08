@@ -4,8 +4,14 @@ URecon is a simple UNET architecture implemented in TensorFlow that can be used 
 The weights trained on Quijote fiducial cosmology simulations, used for the results presented in 2305.xxxx, are provided.
 
 Requirements:
-numpy/scipy
-tensorflow
-tensorflow_addons (for instance normalization)
-tqdm
-pylians3 (only for measuring power spectrum of density fields)
+
+ - numpy/scipy
+
+- tensorflow
+
+- tensorflow_addons (for instance normalization)
+
+- tqdm
+
+- pylians3 (only for measuring power spectrum of density fields)
+
