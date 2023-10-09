@@ -1,0 +1,2 @@
+model_checkpoint_path: "256_nbasefilter8_depth5_z0_checkpoint"
+all_model_checkpoint_paths: "256_nbasefilter8_depth5_z0_checkpoint"

@@ -7,6 +7,9 @@ from tensorflow.keras import Model
 from tensorflow.keras.optimizers import Adam
 from tensorflow_addons.layers import InstanceNormalization
 from tensorflow import pad
+import numpy as np
+
+BoxSize=1000.
     
 class PeriodicPadding3D(Layer):
     def __init__(self, **kwargs):
